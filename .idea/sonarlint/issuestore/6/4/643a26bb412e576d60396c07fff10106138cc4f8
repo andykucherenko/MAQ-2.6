@@ -1,0 +1,7 @@
+
+w
+java:S1104"ZMake idlingResource a static final constant or non-public and provide accessors if needed.(†ÔÅ¨8¾®à¸1
+Q
+java:S1444"4Make this "public static idlingResource" field final(†ÔÅ¨8¾®à¸1
+W
+java:S1118":Add a private constructor to hide the implicit public one.(ŠÄÿâ8²¾®à¸1

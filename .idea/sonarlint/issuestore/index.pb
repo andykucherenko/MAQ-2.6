@@ -1,0 +1,23 @@
+
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+Ñ
+Tapp/src/main/java/ru/kkuzmichev/simpleappforespresso/ui/gallery/GalleryFragment.java,a\b\abc6225e03f26735fd2ebdd50e0decae8bede45f
+à
+Xapp/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/ExampleInstrumentedTest.java,8\5\8584dbb80bef36d48b674bd73f9238e89036b687
+Å
+Qapp/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/MainActivityTest.java,2\d\2d06b58a0a0dce04889131f58f767a5a1c5db04f
+å
+\app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/IntentSettingsSecondWayTest.java,3\e\3e5bf48c758bf909f3294cb3e39e4c4889a64c03
+ã
+[app/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/IntentSettingsFirstWayTest.java,0\2\0256064d8ace6f49c4d3816bbad3efb8baef33af
+Ñ
+Tapp/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/IdlingResourcesTest.java,6\8\68b5108216d4f54ec53131eb7090c951a0c28efd
+Ç
+Rapp/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/CustomViewMatcher.java,7\b\7bb28ae55f75dcd7c2a941093b00669ecceccfd2
+Ö
+Uapp/src/androidTest/java/ru/kkuzmichev/simpleappforespresso/CustomViewAssertions.java,e\6\e6e9e9c5cbbf0f292ce44134160eb3d9688ed753
+Å
+Qapp/src/main/java/ru/kkuzmichev/simpleappforespresso/EspressoIdlingResources.java,6\4\643a26bb412e576d60396c07fff10106138cc4f8
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
